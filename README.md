@@ -4,7 +4,7 @@ Centre d'Entraînement de Maîtrise Souris et Clavier
 
 **CEMSC** est une application web interactive conçue pour évaluer et améliorer vos compétences en utilisation de la souris et du clavier. Elle propose plusieurs modules de jeux sérieux, avec suivi de progression, badges, classement et sons immersifs.
 
-[![Licence MIT](https://img.shields.io/badge/Licence-MIT-green.svg)](LICENCE)
+https://afapf.github.io/CEMSC/
 
 ## 🎯 Fonctionnalités
 
